@@ -1,0 +1,60 @@
+#How to convince your client to use WordPress
+
+Start here:
+
+Today we going to show how easy it is publish new content with the Wordpress Editor.
+
+We will take you through how to add content by typing, from an external source, and styling and managing this content.
+
+Step 1
+Open page with Wordpress editor
+“Lets add some content”
+ Type
+“23% of the websites in the top 10 million sites in the world are Wordpress”
+we not ready to publish yet so by saving draft we can save what have created so far - and preview it
+Show preview page
+
+Step 2 
+“you can add content by cutting and pasting from many external 
+sources includes : Word, Google docs, Note pad anything… its so easy”
+
+Show cutting and pasting from google docs & word:
+“Freedom to go 
+Open source”
+
+save and preview
+
+Step3
+Styling is so easy
+Bold, Italic, and H1
+
+lets preview what we have created
+
+Step 4
+
+“Im going to show you how its so easy to load a picture and edit the size to fit your page design” 
+as you can see we add the full media picture which can be adjusted by the wordpress editor.
+Add a picture from library and resize
+
+save and preview
+
+Step 5
+“Now thats how easy it is to add content using the editor -  either by typing in content directly or pasting content from an external source. We then changed styling, and added a picture.”
+“so lets publish the content.
+
+Step 7  
+“The Wordpress editor also allows you to create revision copies for your content - so everyone can see the latest version , and just in case you can revert to a previous version”
+also if you need to have your new page content approved - then we can use user levels of access .”
+“ie a contributor can create the content but cant publish
+a publisher who has the access level to publish can take a look and hit the button to publish the new content “ 
+
+“So what did we learn
+Content additions and management is easy with Wordpress. so you whole workforce - even the least of techie people can add to the conversation for your business.”
+
+“So goto here to give this a try yourself or send to your colleague. “
+
+management of the content is simple .
+As content chnages over a period of time - we need to mange the content reviosn.
+this is easy with  revisions option and Users access levels.
+
+
